@@ -85,3 +85,8 @@ h1 {
     object-fit:cover;
     border-radius: 8px;  
 }
+.dish-image {
+    width: 50%;
+    height: auto;
+    border-radius: 8px;
+}
